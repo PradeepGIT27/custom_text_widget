@@ -1,6 +1,8 @@
 name: custom_text_widget
 description: Rich Text Formatting Support for custom fonts, colors, and styling.
 version: 1.0.0
+homepage: https://github.com/PradeepGIT27
+repository: https://github.com/PradeepGIT27/Custom-Text-Widget
 # repository: https://github.com/my_org/my_repo
 
 environment:
