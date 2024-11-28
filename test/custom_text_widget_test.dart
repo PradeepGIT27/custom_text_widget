@@ -1,4 +1,4 @@
-import 'package:custom_text_widget/custom_text_widget_pro.dart';
+import 'package:custom_text_widget_pro/custom_text_widget_pro.dart';
 import 'package:flutter/material.dart';
 
 void main() {
