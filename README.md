@@ -1,4 +1,4 @@
-# custom_text_widget
+# custom_text_widget_pro
 
 This Flutter plugin provides an API for querying information about an application package.
 
@@ -25,8 +25,7 @@ You can use the PackageInfo to query information about the application package. 
 iOS and Android.
 
 ```dart
-import 'package:custom_text_widget/custom_text_widget_pro.dart';
-
+import 'package:custom_text_widget_pro/custom_text_widget_pro.dart';
 import 'package:flutter/material.dart';
 
 class SampleCustomText extends StatelessWidget {
@@ -35,8 +34,9 @@ class SampleCustomText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextWidget(
-        "Text Value", 20.0, Colors.black54, FontWeight.w500, TextAlign.center);
+        "Example", 20.0, Colors.black54, FontWeight.w500, TextAlign.center);
   }
 }
+
 
 ```
