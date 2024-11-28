@@ -25,7 +25,7 @@ You can use the PackageInfo to query information about the application package. 
 iOS and Android.
 
 ```dart
-import 'package:custom_text_widget/custom_text_widget.dart';
+import 'package:custom_text_widget/custom_text_widget_pro.dart';
 
 import 'package:flutter/material.dart';
 

@@ -1,4 +1,4 @@
-import 'package:custom_text_widget/custom_text_widget.dart';
+import 'package:custom_text_widget/custom_text_widget_pro.dart';
 import 'package:flutter/material.dart';
 
 class SampleCustomText extends StatelessWidget {
