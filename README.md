@@ -34,7 +34,11 @@ class SampleCustomText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextWidget(
-        "Example", 20.0, Colors.black54, FontWeight.w500, TextAlign.center);
+        text: "Example",
+        size: 20.0,
+        color: Colors.black,
+        fontWeight: FontWeight.w500,
+        textAlign: TextAlign.center);
   }
 }
 
