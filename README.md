@@ -26,6 +26,7 @@ iOS and Android.
 
 ```dart
 import 'package:custom_text_widget_pro/custom_text_widget_pro.dart';
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
 class SampleCustomText extends StatelessWidget {

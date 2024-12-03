@@ -1,5 +1,4 @@
 import 'package:custom_text_widget_pro/custom_text_widget_pro.dart';
-import 'package:custom_text_widget_pro/src/clickable_custom_text_widget_base.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
