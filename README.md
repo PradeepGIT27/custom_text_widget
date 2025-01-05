@@ -21,8 +21,7 @@ This Flutter plugin provides an API for querying information about an applicatio
 
 ## Usage
 
-You can use the PackageInfo to query information about the application package. This works both on
-iOS and Android.
+You can use the TextWidget to customise based your text views on your needs. 
 
 ```dart
 import 'package:custom_text_widget_pro/custom_text_widget_pro.dart';

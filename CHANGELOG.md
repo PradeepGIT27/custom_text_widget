@@ -36,3 +36,7 @@
 
 - Selectable Text:
   Added selectable text with the text properties.
+
+## 1.0.5
+
+- Bug Fixes.
