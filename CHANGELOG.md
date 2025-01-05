@@ -40,3 +40,7 @@
 ## 1.0.5
 
 - Bug Fixes.
+
+## 1.0.6
+
+- ReadMe custom added with new textview example.

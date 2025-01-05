@@ -1,6 +1,6 @@
 # custom_text_widget_pro
 
-This Flutter plugin provides an API for querying information about an application package.
+This Flutter plugin provides a way to customise the textview from the view.
 
 ## Platform Support
 
