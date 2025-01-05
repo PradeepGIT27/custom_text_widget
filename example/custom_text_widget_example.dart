@@ -78,6 +78,15 @@ class SampleCustomText extends StatelessWidget {
               ),
             ]),
           ),
+          Container(
+            padding: EdgeInsets.all(16),
+            child: SelectableTextWidget(
+                text: "Selectable Text",
+                size: 16.0,
+                color: Colors.black,
+                fontWeight: FontWeight.w500,
+                textAlign: TextAlign.center),
+          ),
         ],
       ),
     );

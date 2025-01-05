@@ -31,4 +31,8 @@
   Added interactivity with a InkWell for clickable text field.
 
 - Export fix added from previous version.
- 
+
+## 1.0.4
+
+- Selectable Text:
+  Added selectable text with the text properties.
